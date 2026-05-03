@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
 </div>
 
-# GSAP Awwwards Coffee Website
+# GSAP -Coffee Website
 
 A premium motion-driven coffee landing page built with React, GSAP, and Tailwind CSS. The site is designed to feel cinematic, responsive, and polished, with scroll-based storytelling, animated text, pinned media, and interactive sections.
 
