@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="public/images/Final.png" style="border-radius:10px;" alt="Project banner" />
 
-  <br />
-  <br />
 
   <img src="https://img.shields.io/badge/React-19-007ACC?style=for-the-badge&logo=react&logoColor=white" alt="React 19" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-v4-030712?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS v4" />
